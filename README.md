@@ -1,2 +1,5 @@
 # Demo
-It is a demo for creating gitHub project.  (gitgnore:node license:MIT License)
+It is a demo for creating gitHub project.  
+
+## 设置
+(gitgnore:node license:MIT License)
